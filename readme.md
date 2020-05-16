@@ -1,3 +1,5 @@
+[![nodemcu](https://img.youtube.com/vi/ViRW7DBKWFk/0.jpg)](https://www.youtube.com/watch?v=ViRW7DBKWFk)
+
 # Nodemcu İle LCD Ekranda İftar Vakti – Corona Hasta Sayısı ve Sıcaklık Gösterme
 
 Bu uygulamamızda Nodemcu geliştirme kartını kullanarak LCD 16x2 ekran'a diyanet'in ve sağlık bakanlığının sitesinden çektiğimiz verileri göstermiş oluyoruz.
