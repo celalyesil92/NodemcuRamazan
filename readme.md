@@ -17,3 +17,4 @@ Bacaklar aşağıya gelecek şekilde bakıldığında;
 
 Bağlantıları bu şekilde yaptıktan sonra php dosyasını kendi sitenize upload etmeniz gerekmektedir. Ardından ino dosyasındaki site adreslerini güncelledikten sonra nodemcuya yükleyerek çalışır hale getirebilirsiniz.
 
+https://celalyesil.com/nodemcu-ile-lcd-ekranda-iftar-vakti-corona-hasta-sayisi-ve-sicaklik-gosterme/
