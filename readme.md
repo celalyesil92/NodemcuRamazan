@@ -4,6 +4,11 @@
 
 Bu uygulamamızda Nodemcu geliştirme kartını kullanarak LCD 16x2 ekran'a diyanet'in ve sağlık bakanlığının sitesinden çektiğimiz verileri göstermiş oluyoruz.
 
+## Gerekenler
+- Nodemcu
+- 2×16 LCD Ekran (i2c modülü olursa daha iyi olur)
+- DHT11 Isı sensörü (olmasada olur veri görünmez sadece)
+
 ## Bağlantı Şekli
 LCD ekran;
 SCL -> D1
