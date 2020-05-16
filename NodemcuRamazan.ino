@@ -52,17 +52,17 @@ void loop()
 
 if (WiFi.status() == WL_CONNECTED) {
   HTTPClient httpsaat;
-  String saat = "http://celalyesil.com/nodemcu/ramazan.php";
+  String saat = "http://siteadi.com/ramazan.php";
   httpsaat.begin(saat);
   int httpCode = httpsaat.GET();   
 
   HTTPClient httpdata;
-  String data = "http://celalyesil.com/nodemcu/ramazan.php?v=1";
+  String data = "http://siteadi.com/ramazan.php?v=1";
   httpdata.begin(data); 
   int httpCodem = httpdata.GET();   
 
    HTTPClient httpiftar;
-  String dataiftar = "http://celalyesil.com/nodemcu/ramazan.php?v=2";
+  String dataiftar = "http://siteadi.com/ramazan.php?v=2";
   httpiftar.begin(dataiftar); 
   int httpCodeiftar = httpiftar.GET();   
 
