@@ -15,6 +15,6 @@ Bacaklar aşağıya gelecek şekilde bakıldığında;
 2. Bacak -> 3V
 3. Bacak -> G
 
-Bağlantıları bu şekilde yaptıktan sonra php dosyasını kendi sitenize upload etmeniz gerekmektedir. Ardından ino dosyasındaki site adreslerini güncelledikten sonra nodemcuya yükleyerek çalışır hale getirebilirsiniz.
+Bağlantıları bu şekilde yaptıktan sonra php dosyasını kendi sitenize upload etmeniz gerekmektedir. Ardından ino dosyasındaki site adreslerini ve Modem bilgilerini güncelledikten sonra nodemcuya yükleyerek çalışır hale getirebilirsiniz.
 
 https://celalyesil.com/nodemcu-ile-lcd-ekranda-iftar-vakti-corona-hasta-sayisi-ve-sicaklik-gosterme/
