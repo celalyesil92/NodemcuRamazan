@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Europe/Istanbul');
 
-if($_GET['v'] == 1){
+if(htmlspecialchars($_GET['v']) == 1){
 
 function siteConnect($site)
     {
